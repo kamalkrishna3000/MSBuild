@@ -11,7 +11,7 @@ namespace JenkinsTest
 		static void Main(string[] args)
 		{
 			Console.WriteLine(" Jenkins executed this file");
-			Console.ReadKey();
+			//Console.ReadKey();
 		}
 	}
 }
